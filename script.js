@@ -16,7 +16,7 @@ function findFirstNonRepeatedChar(str) {
     }
   }
 
-  return '';
+  return null;
 }
 
 // Example usage:
